@@ -15,4 +15,4 @@ Through this project, I practiced working with Flexbox, CSS Grid, responsive des
 [Live Website](https://mohamad-aboeisa.github.io/Personal-WebSite)
 
 ## Connect With Me
-[LinkedIn](www.linkedin.com/in/mohamad-osama-aboeisa)
+[LinkedIn](https://www.linkedin.com/in/mohamad-osama-aboeisa/)
